@@ -1,0 +1,11 @@
+id,category,priority,status,opened,closed
+T-1001,password,low,closed,2026-03-02 08:10,2026-03-02 08:40
+T-1002,network,high,closed,2026-03-02 09:00,2026-03-02 13:30
+T-1003,hardware,medium,closed,2026-03-03 10:15,2026-03-04 09:00
+T-1004,software,low,closed,2026-03-03 11:00,2026-03-03 12:30
+T-1005,network,high,open,2026-03-04 07:45,
+T-1006,password,low,closed,2026-03-04 08:20,2026-03-04 08:35
+T-1007,software,medium,closed,2026-03-04 14:00,2026-03-05 10:00
+T-1008,hardware,high,open,2026-03-05 09:30,
+T-1009,software,low,closed,2026-03-05 15:10,2026-03-05 16:00
+T-1010,network,medium,closed,2026-03-06 08:00,2026-03-06 11:15
